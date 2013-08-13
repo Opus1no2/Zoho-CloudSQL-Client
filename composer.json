@@ -1,0 +1,13 @@
+{
+    "name": "zoho/cloudsql-client",
+    "description": "Interface for making SQL query's to Zoho over HTTP,
+    "authors": [
+        {
+            "name": "Travis Tillotson",
+            "email": "tillotson.travis@gmail.com"
+        }
+    ],
+    "required": {
+        "php": ">=5.3.2"
+    }
+}
