@@ -37,8 +37,7 @@ Using the Query class is easy:
 
 ``` php
 <?php
-
-require_once 'path/to/Ifbyphone/Route.php';
+require_once 'Query.php';
 
 try {
     $query = new Query();
