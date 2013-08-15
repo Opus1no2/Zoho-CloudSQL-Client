@@ -1,6 +1,6 @@
 {
     "name": "zoho/cloudsql-client",
-    "description": "Interface for making SQL query's to Zoho over HTTP,
+    "description": "Interface for making SQL query's to Zoho over HTTP",
     "authors": [
         {
             "name": "Travis Tillotson",
