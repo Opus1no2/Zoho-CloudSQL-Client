@@ -40,7 +40,7 @@ Using the Query class is easy:
 require_once 'Query.php';
 
 try {
-    $query = new Query();
+    $query = new Zoho_CloudDb_Query();
     $result = $query->setDb('your_db_table')
         ->setQuery('SELECT "column1" from "employee_id_table" where "column1" = 1234')
         ->run();

@@ -1,7 +1,7 @@
 <?php
 require_once 'Config.php';
 
-class Query
+class Zoho_CloudDb_Query
 {
     /**
      * @var string $_auth
