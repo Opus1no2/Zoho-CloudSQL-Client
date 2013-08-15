@@ -37,7 +37,7 @@ Using the Query class is easy:
 
 ``` php
 <?php
-require_once 'Query.php';
+require_once 'Zoho_CloudDb_Query.php';
 
 try {
     $query = new Zoho_CloudDb_Query();
